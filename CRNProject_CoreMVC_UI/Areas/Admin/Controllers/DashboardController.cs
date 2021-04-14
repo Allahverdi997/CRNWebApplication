@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using CRNProject_BusinessLogicalLayer.UnitOfWork;
+using CRNProject_CoreMVC_UI.Models;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,6 +10,11 @@ namespace CRNProject_CoreMVC_UI.Areas.Admin.Controllers
 {
     public class DashboardController : Controller
     {
+        private readonly IUnitOfWork unitOfWork;
+        public DashboardController(IUnitOfWork _unitOfWork)
+        {
+            unitOfWork = _unitOfWork;
+        }
         #region Anasayfa
         public IActionResult Index()
         {
@@ -21,9 +28,14 @@ namespace CRNProject_CoreMVC_UI.Areas.Admin.Controllers
         }
         #endregion
         #region Hakkında
-        public IActionResult About()
+        public async Task<IActionResult> AboutIndex()
         {
-            return View();
+            var model = new AboutIndexViewModel()
+            {
+                Abouts = await unitOfWork.aboutService.GetAll(),
+                LangTables = await unitOfWork.langTableService.GetAll()
+            };
+            return View("About", model);
         }
         #endregion
         #region Menu

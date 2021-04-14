@@ -1,8 +1,10 @@
-﻿
+﻿@using CRNProject_CoreMVC_UI.Models
 @{
     ViewBag.Title = "About";
     Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
 }
+
+@model AboutIndexViewModel;
 
 <div class="card-box mb-30">
     <h2 class="h4 pd-20">Hakkında Detayları</h2>
@@ -21,27 +23,44 @@
             </tr>
         </thead>
         <tbody>
-            <tr>
-                <td>IDBilgisi</td>
-                <td>İngilizce</td>
-                <td>TitleBilgisi</td>
-                <td>ContentBilgisi</td>
-                <td>ResimVideoURL</td>
-                <td>ResimVideoALT</td>
-                <td>SonGüncellemeTarihiBilgisi</td>
-                <td><span class="badge badge-danger">Pasif</span></td>
-                <td>
-                    <div class="dropdown">
-                        <a class="btn btn-link font-24 p-0 line-height-1 no-arrow dropdown-toggle" href="#" role="button" data-toggle="dropdown">
-                            <i class="dw dw-more"></i>
-                        </a>
-                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-icon-list">
-                            <a class="dropdown-item" href="#"><i class="dw dw-edit2"></i> Düzenle</a>
-                            <a class="dropdown-item" href="#"><i class="dw dw-delete-3"></i> Sil</a>
+            @foreach (var about in Model.Abouts)
+            {
+                <tr>
+                    <td>@about.Id</td>
+                    @foreach (var lang in Model.LangTables)
+                    {
+                        if (about.LangId == lang.Id)
+                        {
+                            <td>@lang.LangName</td>
+                        }
+                    }
+                    <td>@about.Title</td>
+                    <td>@about.Content</td>
+                    <td>@about.ImageVideoURL</td>
+                    <td>@about.ImageVideoAlt</td>
+                    <td>@about.LastDateTime</td>
+                    @if (about.IsActive == true)
+                    {
+                        <td><span class="badge badge-success">Active</span></td>
+                    }
+                    else
+                    {
+                        <td><span class="badge badge-danger">Passif</span></td>
+                    }
+                    <td>
+                        <div class="dropdown">
+                            <a class="btn btn-link font-24 p-0 line-height-1 no-arrow dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+                                <i class="dw dw-more"></i>
+                            </a>
+                            <div class="dropdown-menu dropdown-menu-right dropdown-menu-icon-list">
+                                <a class="dropdown-item" href="#"><i class="dw dw-edit2"></i> Düzenle</a>
+                                <a class="dropdown-item" href="/Admin/About/DeleteAbout/@about.Id"><i class="dw dw-delete-3"></i> Sil</a>
+                            </div>
                         </div>
-                    </div>
-                </td>
-            </tr>
+                    </td>
+                </tr>
+            }
+
         </tbody>
     </table>
 </div>

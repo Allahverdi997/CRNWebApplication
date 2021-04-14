@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_BusinessLogicalLayer\\CRNProject_BusinessLogicalLayer.csproj": {}
+    "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_BusinessLogicalLayer\\CRNProject_BusinessLogicalLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_BusinessLogicalLayer\\CRNProject_BusinessLogicalLayer.csproj": {
+    "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_BusinessLogicalLayer\\CRNProject_BusinessLogicalLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_BusinessLogicalLayer\\CRNProject_BusinessLogicalLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_BusinessLogicalLayer\\CRNProject_BusinessLogicalLayer.csproj",
         "projectName": "CRNProject_BusinessLogicalLayer",
-        "projectPath": "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_BusinessLogicalLayer\\CRNProject_BusinessLogicalLayer.csproj",
-        "packagesPath": "C:\\Users\\kadirari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_BusinessLogicalLayer\\obj\\",
+        "projectPath": "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_BusinessLogicalLayer\\CRNProject_BusinessLogicalLayer.csproj",
+        "packagesPath": "C:\\Users\\Es-Selamun Aleykum\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_BusinessLogicalLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -19,7 +19,7 @@
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\kadirari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Es-Selamun Aleykum\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -35,11 +35,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_DataAccessLayer\\CRNProject_DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_DataAccessLayer\\CRNProject_DataAccessLayer.csproj"
+              "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_DataAccessLayer\\CRNProject_DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_DataAccessLayer\\CRNProject_DataAccessLayer.csproj"
               },
-              "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_Entities\\CRNProject_Entities.csproj": {
-                "projectPath": "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_Entities\\CRNProject_Entities.csproj"
+              "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_Entities\\CRNProject_Entities.csproj": {
+                "projectPath": "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_Entities\\CRNProject_Entities.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_CoreLayer\\CRNProject_CoreLayer.csproj": {
+    "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_CoreLayer\\CRNProject_CoreLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_CoreLayer\\CRNProject_CoreLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_CoreLayer\\CRNProject_CoreLayer.csproj",
         "projectName": "CRNProject_CoreLayer",
-        "projectPath": "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_CoreLayer\\CRNProject_CoreLayer.csproj",
-        "packagesPath": "C:\\Users\\kadirari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_CoreLayer\\obj\\",
+        "projectPath": "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_CoreLayer\\CRNProject_CoreLayer.csproj",
+        "packagesPath": "C:\\Users\\Es-Selamun Aleykum\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_CoreLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -95,7 +95,7 @@
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\kadirari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Es-Selamun Aleykum\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -153,14 +153,14 @@
         }
       }
     },
-    "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_DataAccessLayer\\CRNProject_DataAccessLayer.csproj": {
+    "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_DataAccessLayer\\CRNProject_DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_DataAccessLayer\\CRNProject_DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_DataAccessLayer\\CRNProject_DataAccessLayer.csproj",
         "projectName": "CRNProject_DataAccessLayer",
-        "projectPath": "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_DataAccessLayer\\CRNProject_DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\kadirari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_DataAccessLayer\\obj\\",
+        "projectPath": "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_DataAccessLayer\\CRNProject_DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Es-Selamun Aleykum\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -168,7 +168,7 @@
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\kadirari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Es-Selamun Aleykum\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -184,11 +184,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_CoreLayer\\CRNProject_CoreLayer.csproj": {
-                "projectPath": "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_CoreLayer\\CRNProject_CoreLayer.csproj"
+              "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_CoreLayer\\CRNProject_CoreLayer.csproj": {
+                "projectPath": "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_CoreLayer\\CRNProject_CoreLayer.csproj"
               },
-              "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_Entities\\CRNProject_Entities.csproj": {
-                "projectPath": "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_Entities\\CRNProject_Entities.csproj"
+              "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_Entities\\CRNProject_Entities.csproj": {
+                "projectPath": "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_Entities\\CRNProject_Entities.csproj"
               }
             }
           }
@@ -247,14 +247,14 @@
         }
       }
     },
-    "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_Entities\\CRNProject_Entities.csproj": {
+    "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_Entities\\CRNProject_Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_Entities\\CRNProject_Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_Entities\\CRNProject_Entities.csproj",
         "projectName": "CRNProject_Entities",
-        "projectPath": "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_Entities\\CRNProject_Entities.csproj",
-        "packagesPath": "C:\\Users\\kadirari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_Entities\\obj\\",
+        "projectPath": "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_Entities\\CRNProject_Entities.csproj",
+        "packagesPath": "C:\\Users\\Es-Selamun Aleykum\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -262,7 +262,7 @@
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\kadirari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Es-Selamun Aleykum\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -278,8 +278,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_CoreLayer\\CRNProject_CoreLayer.csproj": {
-                "projectPath": "C:\\Users\\kadirari\\Desktop\\Freelance\\CRNProject\\CRNProject_CoreLayer\\CRNProject_CoreLayer.csproj"
+              "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_CoreLayer\\CRNProject_CoreLayer.csproj": {
+                "projectPath": "C:\\Users\\Es-Selamun Aleykum\\Desktop\\Turkiye Bunyamin Hoca\\CRNProject_Github_3\\CRNProject_CoreLayer\\CRNProject_CoreLayer.csproj"
               }
             }
           }

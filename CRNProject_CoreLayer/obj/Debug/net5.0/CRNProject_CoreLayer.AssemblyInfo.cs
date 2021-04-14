@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRNProject_CoreLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+42a19b06cd7a7d5ef2799e56ba3821e598411f11")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbf7e51bfc3bfadeb61c4bb1ac4f45a61ef050af")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRNProject_CoreLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRNProject_CoreLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

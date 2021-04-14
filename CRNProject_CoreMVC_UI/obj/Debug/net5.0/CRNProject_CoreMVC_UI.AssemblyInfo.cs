@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRNProject_CoreMVC_UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f385bcd7be851eb5340218039ca73aaafc8dbce7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbf7e51bfc3bfadeb61c4bb1ac4f45a61ef050af")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRNProject_CoreMVC_UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRNProject_CoreMVC_UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

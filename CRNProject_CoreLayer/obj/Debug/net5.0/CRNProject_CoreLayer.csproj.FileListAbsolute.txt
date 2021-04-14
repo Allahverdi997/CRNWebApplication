@@ -23,3 +23,16 @@ C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_CoreLayer\obj\Debug\ne
 C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_CoreLayer\obj\Debug\net5.0\CRNProject_CoreLayer.dll
 C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_CoreLayer\obj\Debug\net5.0\ref\CRNProject_CoreLayer.dll
 C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_CoreLayer\obj\Debug\net5.0\CRNProject_CoreLayer.pdb
+C:\Users\Es-Selamun Aleykum\Desktop\Turkiye Bunyamin Hoca\CRNProject_Github_3\CRNProject_CoreLayer\bin\Debug\net5.0\CRNProject_CoreLayer.deps.json
+C:\Users\Es-Selamun Aleykum\Desktop\Turkiye Bunyamin Hoca\CRNProject_Github_3\CRNProject_CoreLayer\bin\Debug\net5.0\CRNProject_CoreLayer.dll
+C:\Users\Es-Selamun Aleykum\Desktop\Turkiye Bunyamin Hoca\CRNProject_Github_3\CRNProject_CoreLayer\bin\Debug\net5.0\ref\CRNProject_CoreLayer.dll
+C:\Users\Es-Selamun Aleykum\Desktop\Turkiye Bunyamin Hoca\CRNProject_Github_3\CRNProject_CoreLayer\bin\Debug\net5.0\CRNProject_CoreLayer.pdb
+C:\Users\Es-Selamun Aleykum\Desktop\Turkiye Bunyamin Hoca\CRNProject_Github_3\CRNProject_CoreLayer\obj\Debug\net5.0\CRNProject_CoreLayer.csprojAssemblyReference.cache
+C:\Users\Es-Selamun Aleykum\Desktop\Turkiye Bunyamin Hoca\CRNProject_Github_3\CRNProject_CoreLayer\obj\Debug\net5.0\CRNProject_CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Es-Selamun Aleykum\Desktop\Turkiye Bunyamin Hoca\CRNProject_Github_3\CRNProject_CoreLayer\obj\Debug\net5.0\CRNProject_CoreLayer.AssemblyInfoInputs.cache
+C:\Users\Es-Selamun Aleykum\Desktop\Turkiye Bunyamin Hoca\CRNProject_Github_3\CRNProject_CoreLayer\obj\Debug\net5.0\CRNProject_CoreLayer.AssemblyInfo.cs
+C:\Users\Es-Selamun Aleykum\Desktop\Turkiye Bunyamin Hoca\CRNProject_Github_3\CRNProject_CoreLayer\obj\Debug\net5.0\CRNProject_CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\Es-Selamun Aleykum\Desktop\Turkiye Bunyamin Hoca\CRNProject_Github_3\CRNProject_CoreLayer\obj\Debug\net5.0\CRNProject_CoreLayer.sourcelink.json
+C:\Users\Es-Selamun Aleykum\Desktop\Turkiye Bunyamin Hoca\CRNProject_Github_3\CRNProject_CoreLayer\obj\Debug\net5.0\CRNProject_CoreLayer.dll
+C:\Users\Es-Selamun Aleykum\Desktop\Turkiye Bunyamin Hoca\CRNProject_Github_3\CRNProject_CoreLayer\obj\Debug\net5.0\ref\CRNProject_CoreLayer.dll
+C:\Users\Es-Selamun Aleykum\Desktop\Turkiye Bunyamin Hoca\CRNProject_Github_3\CRNProject_CoreLayer\obj\Debug\net5.0\CRNProject_CoreLayer.pdb
