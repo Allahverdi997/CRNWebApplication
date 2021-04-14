@@ -108,6 +108,11 @@ namespace CRNProject_CoreMVC_UI
             app.UseMvcWithDefaultRoute();
             app.UseEndpoints(endpoints =>
             {
+                endpoints.MapAreaControllerRoute(
+                   name: "MyAreaProducts",
+                   areaName: "Admin",
+                   pattern: "Admin/{controller=Dashboard}/{action=Index}/{id?}"
+                   );
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");

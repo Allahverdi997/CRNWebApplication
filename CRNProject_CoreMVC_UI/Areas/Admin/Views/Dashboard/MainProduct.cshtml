@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewBag.Title = "MainProduct";
+    Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="card-box mb-30">
+    <h2 class="h4 pd-20">Ürün Detayları</h2>
+    <table class="data-table table nowrap">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Dil</th>
+                <th>Kategori</th>
+                <th>Title</th>
+                <th>Content</th>
+                <th>Resim Video URL</th>
+                <th>Resim Video ALT</th>
+                <th>Son Güncelleme Tarihi</th>
+                <th>Main Ürün Aktif Durumu</th>
+                <th>Main Uygulama Aktif Durumu</th>
+                <th>Aktif Durumu</th>
+                <th class="datatable-nosort">İşlemler</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Id</td>
+                <td>İngilizce</td>
+                <td>KategoriBilgisi</td>
+                <td>TitleBilgisi</td>
+                <td>ContentBilgisi</td>
+                <td>ResimVideoURL</td>
+                <td>ResimVideoALT</td>
+                <td>SonGüncellemeTarihBilgisi</td>
+                <td><span class="badge badge-secondary">Pasif</span></td>
+                <td><span class="badge badge-dark">Pasif</span></td>
+                <td><span class="badge badge-danger">Pasif</span></td>
+                <td>
+                    <div class="dropdown">
+                        <a class="btn btn-link font-24 p-0 line-height-1 no-arrow dropdown-toggle" href="#" role="button" data-toggle="dropdown">
+                            <i class="dw dw-more"></i>
+                        </a>
+                        <div class="dropdown-menu dropdown-menu-right dropdown-menu-icon-list">
+                            <a class="dropdown-item" href="#"><i class="dw dw-edit2"></i> Düzenle</a>
+                            <a class="dropdown-item" href="#"><i class="dw dw-delete-3"></i> Sil</a>
+                        </div>
+                    </div>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+

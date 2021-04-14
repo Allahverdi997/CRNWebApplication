@@ -13,3 +13,19 @@ C:\Users\Es-Selamun Aleykum\Desktop\Turkiye Bunyamin Hoca\CRNProject\CRNProject_
 C:\Users\Es-Selamun Aleykum\Desktop\Turkiye Bunyamin Hoca\CRNProject\CRNProject_Entities\obj\Debug\net5.0\CRNProject_Entities.dll
 C:\Users\Es-Selamun Aleykum\Desktop\Turkiye Bunyamin Hoca\CRNProject\CRNProject_Entities\obj\Debug\net5.0\ref\CRNProject_Entities.dll
 C:\Users\Es-Selamun Aleykum\Desktop\Turkiye Bunyamin Hoca\CRNProject\CRNProject_Entities\obj\Debug\net5.0\CRNProject_Entities.pdb
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_Entities\bin\Debug\net5.0\CRNProject_Entities.deps.json
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_Entities\bin\Debug\net5.0\CRNProject_Entities.dll
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_Entities\bin\Debug\net5.0\ref\CRNProject_Entities.dll
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_Entities\bin\Debug\net5.0\CRNProject_Entities.pdb
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_Entities\bin\Debug\net5.0\CRNProject_CoreLayer.dll
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_Entities\bin\Debug\net5.0\CRNProject_CoreLayer.pdb
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_Entities\obj\Debug\net5.0\CRNProject_Entities.csprojAssemblyReference.cache
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_Entities\obj\Debug\net5.0\CRNProject_Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_Entities\obj\Debug\net5.0\CRNProject_Entities.AssemblyInfoInputs.cache
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_Entities\obj\Debug\net5.0\CRNProject_Entities.AssemblyInfo.cs
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_Entities\obj\Debug\net5.0\CRNProject_Entities.csproj.CoreCompileInputs.cache
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_Entities\obj\Debug\net5.0\CRNProject_Entities.sourcelink.json
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_Entities\obj\Debug\net5.0\CRNProject_Entities.csproj.CopyComplete
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_Entities\obj\Debug\net5.0\CRNProject_Entities.dll
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_Entities\obj\Debug\net5.0\ref\CRNProject_Entities.dll
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_Entities\obj\Debug\net5.0\CRNProject_Entities.pdb

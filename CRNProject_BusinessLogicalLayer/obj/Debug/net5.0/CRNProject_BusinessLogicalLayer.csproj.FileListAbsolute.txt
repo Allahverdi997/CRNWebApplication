@@ -17,3 +17,23 @@ C:\Users\Es-Selamun Aleykum\Desktop\Turkiye Bunyamin Hoca\CRNProject\CRNProject_
 C:\Users\Es-Selamun Aleykum\Desktop\Turkiye Bunyamin Hoca\CRNProject\CRNProject_BusinessLogicalLayer\obj\Debug\net5.0\CRNProject_BusinessLogicalLayer.dll
 C:\Users\Es-Selamun Aleykum\Desktop\Turkiye Bunyamin Hoca\CRNProject\CRNProject_BusinessLogicalLayer\obj\Debug\net5.0\ref\CRNProject_BusinessLogicalLayer.dll
 C:\Users\Es-Selamun Aleykum\Desktop\Turkiye Bunyamin Hoca\CRNProject\CRNProject_BusinessLogicalLayer\obj\Debug\net5.0\CRNProject_BusinessLogicalLayer.pdb
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_BusinessLogicalLayer\bin\Debug\net5.0\CRNProject_BusinessLogicalLayer.deps.json
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_BusinessLogicalLayer\bin\Debug\net5.0\CRNProject_BusinessLogicalLayer.dll
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_BusinessLogicalLayer\bin\Debug\net5.0\ref\CRNProject_BusinessLogicalLayer.dll
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_BusinessLogicalLayer\bin\Debug\net5.0\CRNProject_BusinessLogicalLayer.pdb
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_BusinessLogicalLayer\bin\Debug\net5.0\CRNProject_CoreLayer.dll
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_BusinessLogicalLayer\bin\Debug\net5.0\CRNProject_DataAccessLayer.dll
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_BusinessLogicalLayer\bin\Debug\net5.0\CRNProject_Entities.dll
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_BusinessLogicalLayer\bin\Debug\net5.0\CRNProject_DataAccessLayer.pdb
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_BusinessLogicalLayer\bin\Debug\net5.0\CRNProject_Entities.pdb
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_BusinessLogicalLayer\bin\Debug\net5.0\CRNProject_CoreLayer.pdb
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_BusinessLogicalLayer\obj\Debug\net5.0\CRNProject_BusinessLogicalLayer.csprojAssemblyReference.cache
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_BusinessLogicalLayer\obj\Debug\net5.0\CRNProject_BusinessLogicalLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_BusinessLogicalLayer\obj\Debug\net5.0\CRNProject_BusinessLogicalLayer.AssemblyInfoInputs.cache
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_BusinessLogicalLayer\obj\Debug\net5.0\CRNProject_BusinessLogicalLayer.AssemblyInfo.cs
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_BusinessLogicalLayer\obj\Debug\net5.0\CRNProject_BusinessLogicalLayer.csproj.CoreCompileInputs.cache
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_BusinessLogicalLayer\obj\Debug\net5.0\CRNProject_BusinessLogicalLayer.sourcelink.json
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_BusinessLogicalLayer\obj\Debug\net5.0\CRNProject_BusinessLogicalLayer.csproj.CopyComplete
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_BusinessLogicalLayer\obj\Debug\net5.0\CRNProject_BusinessLogicalLayer.dll
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_BusinessLogicalLayer\obj\Debug\net5.0\ref\CRNProject_BusinessLogicalLayer.dll
+C:\Users\kadirari\Desktop\Freelance\CRNProject\CRNProject_BusinessLogicalLayer\obj\Debug\net5.0\CRNProject_BusinessLogicalLayer.pdb
