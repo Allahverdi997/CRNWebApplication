@@ -4,5 +4,45 @@
     Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
 }
 
-<h1>UpdateAltProductImage</h1>
+<div class="pd-20 card-box mb-30">
+    <div class="clearfix">
+        <div class="pull-left">
+            <h4 class="text-blue h4">Alt Ürün Resmi Güncelle</h4>
+            <p class="mb-30">Güncellenecek Bilgileri Giriniz.</p>
+        </div>
+    </div>
+    <form>
+        <div class="form-group row">
+            <label class="col-sm-12 col-md-2 col-form-label">Alt Ürün Adı</label>
+            <div class="col-sm-12 col-md-10">
+                <input class="form-control" type="text" placeholder="Alt Ürün Giriniz...">
+            </div>
+        </div>
+        <div class="form-group row">
+            <label class="col-sm-12 col-md-2 col-form-label">Resim/Video URL</label>
+            <div class="col-sm-12 col-md-10">
+                <input class="form-control" type="text" placeholder="URL Giriniz...">
+            </div>
+        </div>
+        <div class="form-group row">
+            <label class="col-sm-12 col-md-2 col-form-label">Resim/Video Alt</label>
+            <div class="col-sm-12 col-md-10">
+                <input class="form-control" type="text" placeholder="Alt Giriniz...">
+            </div>
+        </div>
+        <div class="form-group row">
+            <label class="col-sm-12 col-md-2 col-form-label">Aktif Durumu</label>
+            <div class="col-sm-12 col-md-10">
+                <select class="custom-select col-12">
+                    <option selected="">Seçiniz...</option>
+                    <option value="1">Aktif</option>
+                    <option value="2">Pasif</option>
+                </select>
+            </div>
+        </div>
+        <div>
+            <button type="button" class="btn btn-primary btn-lg">Güncelle</button>
+        </div>
+    </form>
+</div>
 

@@ -4,5 +4,73 @@
     Layout = "~/Areas/Admin/Views/Shared/_AdminLayout.cshtml";
 }
 
-<h1>AddAltProduct</h1>
+<div class="pd-20 card-box mb-30">
+    <div class="clearfix">
+        <div class="pull-left">
+            <h4 class="text-blue h4">Alt Ürün Ekle</h4>
+            <p class="mb-30">Eklenecek Bilgileri Giriniz.</p>
+        </div>
+    </div>
+    <form>
+        <div class="form-group row">
+            <label class="col-sm-12 col-md-2 col-form-label">Dil</label>
+            <div class="col-sm-12 col-md-10">
+                <select class="custom-select col-12">
+                    <option selected="">Seçiniz...</option>
+                    <option value="1">Türkçe</option>
+                    <option value="2">İngilizce</option>
+                </select>
+            </div>
+        </div>
+        <div class="form-group row">
+            <label class="col-sm-12 col-md-2 col-form-label">Ana Ürün</label>
+            <div class="col-sm-12 col-md-10">
+                <input class="form-control" type="text" placeholder="Ana Ürün Giriniz...">
+            </div>
+        </div>
+        <div class="form-group row">
+            <label class="col-sm-12 col-md-2 col-form-label">Title</label>
+            <div class="col-sm-12 col-md-10">
+                <input class="form-control" type="text" placeholder="Title Giriniz...">
+            </div>
+        </div>
+        <div class="form-group row">
+            <label class="col-sm-12 col-md-2 col-form-label">Content</label>
+            <div class="col-sm-12 col-md-10">
+                <input class="form-control" type="text" placeholder="Content Giriniz...">
+            </div>
+        </div>
+        <div class="form-group row">
+            <label class="col-sm-12 col-md-2 col-form-label">Content1</label>
+            <div class="col-sm-12 col-md-10">
+                <input class="form-control" type="text" placeholder="Content1 Giriniz...">
+            </div>
+        </div>
+        <div class="form-group row">
+            <label class="col-sm-12 col-md-2 col-form-label">Content2</label>
+            <div class="col-sm-12 col-md-10">
+                <input class="form-control" type="text" placeholder="Content2 Giriniz...">
+            </div>
+        </div> 
+        <div class="form-group row">
+            <label class="col-sm-12 col-md-2 col-form-label">Content3</label>
+            <div class="col-sm-12 col-md-10">
+                <input class="form-control" type="text" placeholder="Content3 Giriniz...">
+            </div>
+        </div>
+        <div class="form-group row">
+            <label class="col-sm-12 col-md-2 col-form-label">Aktif Durumu</label>
+            <div class="col-sm-12 col-md-10">
+                <select class="custom-select col-12">
+                    <option selected="">Seçiniz...</option>
+                    <option value="1">Aktif</option>
+                    <option value="2">Pasif</option>
+                </select>
+            </div>
+        </div>
+        <div>
+            <button type="button" class="btn btn-primary btn-lg">Ekle</button>
+        </div>
+    </form>
+</div>
 
